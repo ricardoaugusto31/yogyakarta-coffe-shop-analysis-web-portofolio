@@ -1,0 +1,190 @@
+Id,OrganizationName,RateStars,ReviewsTotalCount,Total_Skor_Nugas,Total_Skor_Nongkrong,Nugas_Score_Normalized,Nongkrong_Score_Normalized,Segment
+2,Alamat: Jl. Suhartono No.2,4.5,2209.0,8,15,0.1290322580645161,0.234375,All-Rounder
+5,Alamat: Jl. Bung Tarjo No.12,4.7,200.0,0,0,0.0,0.0,General Purpose
+6,Alamat: Jl. Bener No.4,4.8,755.0,3,10,0.0483870967741935,0.15625,Social Hotspot
+7,Alamat: Jl. Sabirin No.20,4.6,2205.0,14,5,0.2258064516129032,0.078125,Productivity Hub
+8,Alamat: jl. S.O 1 maret (Jl.Bantul) no.3 Suryodiningratan Mantirejon,4.7,139.0,1,12,0.0161290322580645,0.1875,Social Hotspot
+9,Alamat: Jl. Dr. Wahidin Sudirohusodo No.16,4.5,376.0,5,0,0.0806451612903225,0.0,Productivity Hub
+10,Alamat: Jl. Kompol Bambang Suprapto No.2A,4.6,5754.0,3,6,0.0483870967741935,0.09375,General Purpose
+11,Alamat: Jl. Sareh No.5,4.7,251.0,6,4,0.0967741935483871,0.0625,Productivity Hub
+12,Alamat: Jl. Suroto No.8,4.7,150.0,19,7,0.3064516129032258,0.109375,All-Rounder
+13,Alamat: Jl. Namburan Lor No.7,4.6,148.0,2,17,0.032258064516129,0.265625,Social Hotspot
+14,Alamat: 59M7+629,4.7,344.0,15,13,0.2419354838709677,0.203125,All-Rounder
+15,Alamat: Jl. Bimokunthing No.50,5.0,16.0,2,3,0.032258064516129,0.046875,General Purpose
+16,Alamat: Jl. Pabringan No.57,5.0,27.0,0,0,0.0,0.0,General Purpose
+17,Alamat: Jl. Mangkuyudan No.1,4.6,198.0,6,2,0.0967741935483871,0.03125,Productivity Hub
+18,Alamat: Jl. Bumijo No.2,4.5,337.0,50,31,0.8064516129032258,0.484375,All-Rounder
+19,Alamat: Jl. Sriwedani No.6-32,5.0,43.0,2,13,0.032258064516129,0.203125,Social Hotspot
+20,Alamat: Jl. Sagan Baru III No.5,4.5,927.0,10,4,0.1612903225806451,0.0625,Productivity Hub
+21,Alamat: Karta Coffee & Eatery,4.8,435.0,1,14,0.0161290322580645,0.21875,Social Hotspot
+22,Alamat: Jl. Demangan Baru No.7,4.6,2510.0,4,0,0.064516129032258,0.0,General Purpose
+23,Alamat: Jl. Nologaten,4.7,3609.0,18,64,0.2903225806451612,1.0,All-Rounder
+24,Alamat: Jl. Bantul No.64,4.7,435.0,2,9,0.032258064516129,0.140625,Social Hotspot
+25,Alamat: Jl. Wulung No.14,4.5,527.0,14,9,0.2258064516129032,0.140625,All-Rounder
+26,Alamat: Jl. Kyai Mojo No.77,4.5,2918.0,3,3,0.0483870967741935,0.046875,General Purpose
+28,Alamat: Jl. Rotowijayan No.7,4.8,9.0,6,1,0.0967741935483871,0.015625,Productivity Hub
+29,Alamat: Jl. Jogokaryan No.61-63,4.8,349.0,9,6,0.1451612903225806,0.09375,Productivity Hub
+30,Alamat: 59MG+2C3,4.1,362.0,1,5,0.0161290322580645,0.078125,General Purpose
+31,Alamat: 59XG+98W,4.4,202.0,11,21,0.1774193548387097,0.328125,All-Rounder
+32,Alamat: Gaia Cosmo Hotel,4.6,197.0,12,5,0.1935483870967742,0.078125,Productivity Hub
+33,Alamat: Keparakan,4.7,45.0,7,8,0.1129032258064516,0.125,All-Rounder
+34,Unknown,4.6,95.0,5,3,0.0806451612903225,0.046875,Productivity Hub
+35,Alamat: Jl. Pringgodani Jl. Demangan Baru No.14,4.6,1501.0,10,23,0.1612903225806451,0.359375,All-Rounder
+36,Alamat: Jl. Lowanu No.10,4.9,66.0,0,0,0.0,0.0,General Purpose
+37,Alamat: Jl. Pringgokusuman No.10,4.7,230.0,5,13,0.0806451612903225,0.203125,All-Rounder
+38,Alamat: Jl. Ringroad Selatan,4.6,1704.0,1,8,0.0161290322580645,0.125,Social Hotspot
+39,Alamat: Jl. Ps. Kembang,4.4,902.0,2,39,0.032258064516129,0.609375,Social Hotspot
+40,Alamat: Jl. Abu Bakar Ali,4.3,765.0,0,24,0.0,0.375,Social Hotspot
+41,Alamat: 6927+9W5,4.6,34.0,0,3,0.0,0.046875,General Purpose
+42,Alamat: Jl. Prof. DR. Ki Amri Yahya No.1,4.8,336.0,11,11,0.1774193548387097,0.171875,All-Rounder
+43,Alamat: Jl. Garuni II,4.5,2199.0,9,12,0.1451612903225806,0.1875,All-Rounder
+44,Alamat: Jl. Tutul Gg. Tutul I No.14,5.0,2.0,0,0,0.0,0.0,General Purpose
+45,Alamat: Jl. Nyai Ahmad Dahlan No.32,4.6,771.0,4,4,0.064516129032258,0.0625,General Purpose
+46,Alamat: Jl. Sajiono No.15,4.3,344.0,19,24,0.3064516129032258,0.375,All-Rounder
+47,Alamat: Godean KM. 1,4.7,866.0,12,10,0.1935483870967742,0.15625,All-Rounder
+48,Alamat: Jalan Kampung Ambarukmo,4.6,3723.0,1,21,0.0161290322580645,0.328125,Social Hotspot
+49,Alamat: Jl. Kranggan No.29,4.8,147.0,3,4,0.0483870967741935,0.0625,General Purpose
+50,Alamat: Jl. Babaran,4.7,100.0,16,5,0.2580645161290322,0.078125,Productivity Hub
+51,Alamat: Jl. KH. Ahmad Dahlan No.132,4.5,1336.0,10,15,0.1612903225806451,0.234375,All-Rounder
+52,Alamat: Jl. Jogonegaran No.49E,4.6,694.0,2,14,0.032258064516129,0.21875,Social Hotspot
+53,Alamat: Jl. Gedongkiwo No.29,4.6,1115.0,10,4,0.1612903225806451,0.0625,Productivity Hub
+54,Alamat: Sosromenduran,4.5,494.0,0,12,0.0,0.1875,Social Hotspot
+55,Alamat: Jl. Mangkuyudan No.19,4.7,112.0,16,5,0.2580645161290322,0.078125,Productivity Hub
+56,Alamat: Jl. Bimasakti No.15,4.3,104.0,5,10,0.0806451612903225,0.15625,All-Rounder
+57,Alamat: Jl. Taman Siswa No.108 C,4.6,1304.0,14,0,0.2258064516129032,0.0,Productivity Hub
+58,Alamat: Jl. Selokan Mataram No.421,5.0,160.0,1,8,0.0161290322580645,0.125,Social Hotspot
+59,Alamat: Selasar,5.0,37.0,0,7,0.0,0.109375,Social Hotspot
+60,Alamat: Jl. Kapas No.16,4.3,1667.0,17,19,0.2741935483870967,0.296875,All-Rounder
+62,Alamat: Gang Hansip Karno Waluyo Tukangan,4.6,341.0,2,8,0.032258064516129,0.125,Social Hotspot
+63,Alamat: Jalan Kaliurang KM 12 Ngaglik,4.8,1589.0,8,10,0.1290322580645161,0.15625,All-Rounder
+64,Alamat: NG 3,4.5,909.0,12,52,0.1935483870967742,0.8125,All-Rounder
+65,Alamat: Jl. Magangan Kulon Jl. Ngadisuryan No.1 No.30 KT,5.0,42.0,7,8,0.1129032258064516,0.125,All-Rounder
+66,Alamat: Jl. Pangurakan No.04,4.7,793.0,6,4,0.0967741935483871,0.0625,Productivity Hub
+67,Alamat: Jl. Bener No.70 A,4.6,349.0,9,19,0.1451612903225806,0.296875,All-Rounder
+68,Alamat: Pakuwon Mall Jogja,4.5,314.0,30,11,0.4838709677419355,0.171875,All-Rounder
+69,Alamat: Jl. Nitikan Baru No.109,5.0,44.0,8,6,0.1290322580645161,0.09375,Productivity Hub
+70,Alamat: Jl. Perwakilan No.29A,4.4,16.0,5,5,0.0806451612903225,0.078125,Productivity Hub
+71,Alamat: Jl. Taman,4.5,69.0,2,8,0.032258064516129,0.125,Social Hotspot
+72,Alamat: Jl. Ngadisuryan No.14,4.8,5.0,0,2,0.0,0.03125,General Purpose
+73,Alamat: 59X7+7R4,4.6,194.0,4,7,0.064516129032258,0.109375,Social Hotspot
+74,Alamat: Jl. Ahmad Jazuli,4.8,35.0,21,12,0.3387096774193548,0.1875,All-Rounder
+75,Alamat: Jl. Jend. Sudirman No.40,4.2,764.0,10,17,0.1612903225806451,0.265625,All-Rounder
+76,Alamat: Jl. Gayam No.3,4.7,285.0,9,8,0.1451612903225806,0.125,All-Rounder
+77,Alamat: Jl. Alun-Alun Utara,4.5,1067.0,1,11,0.0161290322580645,0.171875,Social Hotspot
+78,Alamat: Jl. HOS Cokroaminoto No.159,4.8,10.0,2,5,0.032258064516129,0.078125,General Purpose
+79,Alamat: Jl. Tirtodipuran No.52,4.5,153.0,7,5,0.1129032258064516,0.078125,Productivity Hub
+80,Alamat: Jl. Poncowinatan No.71,4.7,36.0,0,7,0.0,0.109375,Social Hotspot
+81,Alamat: Jl. Poncowinatan No.77,4.7,266.0,6,11,0.0967741935483871,0.171875,All-Rounder
+82,Alamat: Jl. Pangeran Diponegoro No.1,4.4,360.0,3,8,0.0483870967741935,0.125,Social Hotspot
+83,Alamat: Jl. Panembahan Senopati No.2,4.6,632.0,9,11,0.1451612903225806,0.171875,All-Rounder
+84,Alamat: Krawitan,4.8,195.0,27,9,0.4354838709677419,0.140625,All-Rounder
+85,Alamat: Jl. Margo Utomo No.79,4.7,993.0,4,7,0.064516129032258,0.109375,Social Hotspot
+86,Alamat: Jl. Ipda Tut Harsono No.28,4.7,8.0,7,7,0.1129032258064516,0.109375,All-Rounder
+87,Alamat: Gg Godel Umbulmartani,4.8,269.0,24,16,0.3870967741935484,0.25,All-Rounder
+88,Alamat: Jl. HOS Cokroaminoto No.64,4.8,176.0,18,11,0.2903225806451612,0.171875,All-Rounder
+89,Alamat: Jl. Sukonandi No.9,4.7,360.0,47,57,0.7580645161290323,0.890625,All-Rounder
+90,Alamat: Kampung Taman Kt 1 / 425 ,4.3,45.0,1,3,0.0161290322580645,0.046875,General Purpose
+91,Alamat: Jl. Taman Siswa No.95,4.6,745.0,9,12,0.1451612903225806,0.1875,All-Rounder
+92,Alamat: Jl. Tentara Zeni Pelajar No.1-B,4.5,728.0,6,3,0.0967741935483871,0.046875,Productivity Hub
+93,Alamat: Jl. Gondang Raya No.4-5,4.6,3267.0,12,9,0.1935483870967742,0.140625,All-Rounder
+94,Alamat: Jl. Bumijo Tengah No.11,4.8,504.0,3,0,0.0483870967741935,0.0,General Purpose
+95,Alamat: Jl. Pekapalan,4.8,225.0,0,14,0.0,0.21875,Social Hotspot
+96,Alamat: Jl. Taman Siswa No.134,4.7,375.0,3,3,0.0483870967741935,0.046875,General Purpose
+97,Alamat: 59V7+X6R,5.0,6.0,1,8,0.0161290322580645,0.125,Social Hotspot
+98,Alamat: 69JX+PQR,4.4,5272.0,7,18,0.1129032258064516,0.28125,All-Rounder
+99,Alamat: Jl. Prof. Dr. Ir. Herman Johannes No.73,4.6,161.0,52,4,0.8387096774193548,0.0625,Productivity Hub
+100,Alamat: Jl. Sagan Tim. No.123,4.6,1640.0,14,7,0.2258064516129032,0.109375,All-Rounder
+101,Alamat: Green Plaza,4.7,159.0,13,0,0.2096774193548387,0.0,Productivity Hub
+102,Alamat: Jl. Palagan Tentara Pelajar No.61C,4.3,1958.0,62,27,1.0,0.421875,All-Rounder
+103,Alamat: Jl. Panembahan Mangkurat No.10,4.6,572.0,11,7,0.1774193548387097,0.109375,All-Rounder
+104,Alamat: Jl. Beo. 42 A,5.0,61.0,5,7,0.0806451612903225,0.109375,All-Rounder
+105,Alamat: Jl. Ibu Ruswo,5.0,15.0,5,8,0.0806451612903225,0.125,All-Rounder
+106,Alamat: Jl. Rotowijayan No.12,4.9,149.0,3,8,0.0483870967741935,0.125,Social Hotspot
+107,Alamat: Jl. Cokrodipuran No.20,4.6,105.0,8,9,0.1290322580645161,0.140625,All-Rounder
+108,Alamat: Jl. Persatuan No.62,4.6,76.0,5,10,0.0806451612903225,0.15625,All-Rounder
+109,Alamat: Jl. Bhayangkara No.18,4.9,64.0,5,3,0.0806451612903225,0.046875,Productivity Hub
+110,Alamat: Jl. Palagan Tentara Pelajar No.29,4.5,4171.0,1,0,0.0161290322580645,0.0,General Purpose
+111,Alamat: Tempel Wirogunan UH 3/870,4.3,42.0,3,3,0.0483870967741935,0.046875,General Purpose
+112,Alamat: Jalan Dagen,5.0,26.0,0,2,0.0,0.03125,General Purpose
+113,Alamat: Jl. Veteran No.148,4.5,1434.0,12,3,0.1935483870967742,0.046875,Productivity Hub
+115,Alamat: Jl. Nitiprayan No.1 RT 01,4.7,730.0,5,4,0.0806451612903225,0.0625,Productivity Hub
+116,Alamat: Jl. Gambiran No.21A,4.7,321.0,7,17,0.1129032258064516,0.265625,All-Rounder
+117,Alamat: Kepuharjo,4.4,8032.0,5,11,0.0806451612903225,0.171875,All-Rounder
+118,Alamat: Jl. P. Mangkubumi No.123,4.7,25.0,0,1,0.0,0.015625,General Purpose
+119,Alamat: Ruko Cokro Square,4.7,284.0,8,4,0.1290322580645161,0.0625,Productivity Hub
+120,Alamat: Jl. DR. Sardjito No.10,4.8,13.0,5,0,0.0806451612903225,0.0,Productivity Hub
+121,Alamat: Gg. Loncang No.88,4.7,1251.0,0,4,0.0,0.0625,General Purpose
+122,Alamat: Jl. Polowijan No.42,4.9,309.0,9,4,0.1451612903225806,0.0625,Productivity Hub
+123,Alamat: Jl. HOS Cokroaminoto No.113,4.6,56.0,14,6,0.2258064516129032,0.09375,Productivity Hub
+124,Alamat: Jl. Nitikan Baru No.18,4.4,338.0,3,4,0.0483870967741935,0.0625,General Purpose
+125,Alamat: Jl. I Dewa Nyoman Oka No.3,4.9,57.0,0,2,0.0,0.03125,General Purpose
+126,Alamat: Jl. A.M. Sangaji No.72,4.5,2277.0,2,20,0.032258064516129,0.3125,Social Hotspot
+127,Alamat: Jl. Laksda Adisucipto No.150,4.8,66.0,1,7,0.0161290322580645,0.109375,Social Hotspot
+128,Alamat: Jl. DI Panjaitan No.18,4.8,67.0,7,3,0.1129032258064516,0.046875,Productivity Hub
+129,Alamat: Jl. Gerilya No.813,4.7,630.0,10,8,0.1612903225806451,0.125,All-Rounder
+130,Alamat: Jl. Sorowajan Baru No.11,4.4,613.0,6,15,0.0967741935483871,0.234375,All-Rounder
+131,Alamat: Jl. Hayam Wuruk No.14,4.6,101.0,7,3,0.1129032258064516,0.046875,Productivity Hub
+132,Alamat: Jl. HOS Cokroaminoto No.185,4.8,484.0,2,0,0.032258064516129,0.0,General Purpose
+134,Alamat: 59W8+JX4,5.0,17.0,4,2,0.064516129032258,0.03125,General Purpose
+135,Alamat: 55131,4.7,65.0,2,3,0.032258064516129,0.046875,General Purpose
+136,Alamat: Jl. Mataram No.9,4.7,40.0,6,7,0.0967741935483871,0.109375,All-Rounder
+137,Alamat: Jl. Polowijan No.17B,4.8,341.0,20,4,0.3225806451612903,0.0625,Productivity Hub
+138,Alamat: 59Q7+5HM,4.6,17.0,0,5,0.0,0.078125,General Purpose
+139,Alamat: Jl. Manuk Beri No.78,5.0,113.0,13,9,0.2096774193548387,0.140625,All-Rounder
+140,Alamat: Jl. Bener No.55,4.6,71.0,1,5,0.0161290322580645,0.078125,General Purpose
+141,Alamat: Jl. Cemp. Baru,4.5,226.0,22,16,0.3548387096774194,0.25,All-Rounder
+142,Alamat: Jl. Pogung Baru,4.4,3357.0,12,13,0.1935483870967742,0.203125,All-Rounder
+143,Alamat: Jl. Weling Raya,4.8,165.0,2,10,0.032258064516129,0.15625,Social Hotspot
+145,Alamat: Jl. Sosrokusuman No.178-109,4.9,123.0,0,3,0.0,0.046875,General Purpose
+146,Alamat: Jl. Malioboro No.42,4.1,961.0,1,3,0.0161290322580645,0.046875,General Purpose
+147,Alamat: Jl. Suroto,4.4,14875.0,7,14,0.1129032258064516,0.21875,All-Rounder
+148,Alamat: Jl. Kenari No.4,4.8,23.0,2,0,0.032258064516129,0.0,General Purpose
+149,Alamat: 698C+6VV,4.7,73.0,0,0,0.0,0.0,General Purpose
+150,Alamat: Jl. Kesatriyan No.41,4.7,24.0,0,6,0.0,0.09375,General Purpose
+151,Alamat: Jl. DR. Sardjito No.8A,4.5,410.0,6,13,0.0967741935483871,0.203125,All-Rounder
+152,Alamat: Jl. Raya Krapyak,4.6,82.0,11,6,0.1774193548387097,0.09375,Productivity Hub
+153,Alamat: Jl. Rogoyudan 1 No.1,4.6,377.0,15,29,0.2419354838709677,0.453125,All-Rounder
+154,Alamat: Jl. Laksda Adisucipto No.Laksda 53,4.6,473.0,10,6,0.1612903225806451,0.09375,Productivity Hub
+155,Alamat: Jl. Melati Wetan No.11,4.3,210.0,7,19,0.1129032258064516,0.296875,All-Rounder
+156,Alamat: Jl. KH. Ali Maksum No.106,4.5,42.0,0,6,0.0,0.09375,General Purpose
+157,Alamat: Jl. Prof. Dr. Ir. Herman Johannes No.1030,5.0,127.0,5,3,0.0806451612903225,0.046875,Productivity Hub
+158,Alamat: 69PQ+6G2,4.5,2783.0,29,7,0.4677419354838709,0.109375,All-Rounder
+159,Alamat: Jl. Polowijan,4.7,383.0,2,5,0.032258064516129,0.078125,General Purpose
+160,Alamat: Jl. Taman Siswa No.151,4.6,288.0,14,7,0.2258064516129032,0.109375,All-Rounder
+161,Alamat: 697P+F8X,4.8,51.0,2,9,0.032258064516129,0.140625,Social Hotspot
+162,Alamat: Jl. Rajawali Raya No.116 D,4.6,6.0,2,8,0.032258064516129,0.125,Social Hotspot
+163,Alamat: Jl. Pandhawa No.001/17,4.5,11121.0,8,13,0.1290322580645161,0.203125,All-Rounder
+164,Alamat: Jl. Prawirotaman No.1 No. 30,4.9,186.0,16,11,0.2580645161290322,0.171875,All-Rounder
+165,Alamat: Istimewa,4.8,100.0,6,25,0.0967741935483871,0.390625,All-Rounder
+166,Alamat: Jl. Sidoasih No.3A,4.5,1140.0,43,53,0.6935483870967741,0.828125,All-Rounder
+167,Alamat: Krawitan,4.8,419.0,15,22,0.2419354838709677,0.34375,All-Rounder
+168,Alamat: Jl. Taman Siswa No.67,4.8,188.0,8,7,0.1290322580645161,0.109375,All-Rounder
+169,Alamat: Komp. Ps. Kembang,4.5,7397.0,0,7,0.0,0.109375,Social Hotspot
+170,Alamat: Jalan Sagan Timur GK 5 1053B,4.6,1273.0,6,12,0.0967741935483871,0.1875,All-Rounder
+171,Alamat: Jl. Wulung Jl. Demangan Baru No.26,4.8,34.0,4,10,0.064516129032258,0.15625,Social Hotspot
+172,Alamat: Jl. Jend. Sudirman No.99-101,4.5,590.0,6,3,0.0967741935483871,0.046875,Productivity Hub
+173,Alamat: Jl. Dagen No.109,4.5,30.0,1,0,0.0161290322580645,0.0,General Purpose
+174,Alamat: Jl. Jogonegaran,4.7,104.0,2,9,0.032258064516129,0.140625,Social Hotspot
+175,Alamat: 8C76+MXJ,5.0,11.0,5,19,0.0806451612903225,0.296875,All-Rounder
+176,Alamat: 59Q6+CPW,4.6,881.0,4,5,0.064516129032258,0.078125,General Purpose
+177,Alamat: Jl. Pekapalan Timur No.7,4.8,21.0,1,2,0.0161290322580645,0.03125,General Purpose
+178,Alamat: Jl. Kranggan No.30,4.6,3852.0,25,7,0.4032258064516129,0.109375,All-Rounder
+179,Alamat: 1288,5.0,11.0,13,10,0.2096774193548387,0.15625,All-Rounder
+180,Alamat: Jalan Kaliurang No.KM.16,4.5,36802.0,0,5,0.0,0.078125,General Purpose
+181,Alamat: Jl. Sosrowijayan GT I No.61,4.7,68.0,2,8,0.032258064516129,0.125,Social Hotspot
+182,Alamat: Jl. Gerilya,4.7,329.0,4,20,0.064516129032258,0.3125,Social Hotspot
+183,Alamat: Jl. Surokarsan Jl. Mangga,4.4,23.0,1,12,0.0161290322580645,0.1875,Social Hotspot
+184,Alamat: Jl. Tunjung Baru No.15A,4.5,1045.0,12,12,0.1935483870967742,0.1875,All-Rounder
+185,Alamat: Jl. Abu Bakar Ali No.24-26,4.4,10712.0,1,11,0.0161290322580645,0.171875,Social Hotspot
+186,Alamat: 59X3+RHV,4.4,4026.0,3,14,0.0483870967741935,0.21875,Social Hotspot
+187,Alamat: Jl. Damai No.8,4.4,7501.0,8,8,0.1290322580645161,0.125,All-Rounder
+188,Alamat: Jl. Juadi No.1,4.9,58.0,7,0,0.1129032258064516,0.0,Productivity Hub
+189,Alamat: 6948+C3J,4.4,194.0,0,2,0.0,0.03125,General Purpose
+190,Alamat: Jl. Sagan Utara No.12,4.9,101.0,4,5,0.064516129032258,0.078125,General Purpose
+191,Alamat: Jl. Jend. Sudirman No.3,4.6,1252.0,14,5,0.2258064516129032,0.078125,Productivity Hub
+192,Alamat: Jl. Bausasran No.56,4.7,362.0,7,10,0.1129032258064516,0.15625,All-Rounder
+193,Alamat: Jl. Ki Ageng Pemanahan,4.6,844.0,6,17,0.0967741935483871,0.265625,All-Rounder
+194,Alamat: 799M+WFV,4.9,30.0,8,17,0.1290322580645161,0.265625,All-Rounder
+195,Alamat: 59W5+7FQ,4.5,143.0,3,11,0.0483870967741935,0.171875,Social Hotspot
+196,Alamat: Jl. Mayjend Sutoyo No.38,4.5,533.0,0,6,0.0,0.09375,General Purpose
+197,Alamat: Jl. Nogosari Lor No.10,4.7,1042.0,2,3,0.032258064516129,0.046875,General Purpose
